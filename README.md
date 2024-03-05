@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor front-end
-- 🌱 Estudando React
+<!-- 🌱 Estudando React-->
 
 
 <div>
